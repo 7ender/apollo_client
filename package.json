@@ -1,9 +1,10 @@
 {
-  "name": "basic-apollo-client-app",
+  "name": "apollo_client",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "license": "MIT",
+  "description": "@apollo/client",
+  "keywords": ["apollo", "client"],
+  "homepage": "https://codesandbox.io/s/github/7ender/apollo_client",
   "main": "src/index.js",
   "dependencies": {
     "@apollo/client": "3.0.0-beta.11",
